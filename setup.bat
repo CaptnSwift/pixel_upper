@@ -1,5 +1,7 @@
 :: inital setup for the pixel_upper project
-:: 
+:: sets up a virtual environment with virtual env
+:: installs required packages
+:: sets up github user
 
 :: install virutalenv for the environment
 pip install virtualenv
